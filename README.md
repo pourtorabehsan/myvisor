@@ -1,2 +1,0 @@
-# myvisor
-MySQL Performance Advisor
